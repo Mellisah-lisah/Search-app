@@ -13,3 +13,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * Bootsrap
  ### Known Bugs
  The project had a lot of errors though i was able to debug
+## Support and contact details
