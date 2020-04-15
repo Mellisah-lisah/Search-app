@@ -9,5 +9,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
  ### setup/installation
  Through the github one can use it to clone
  ### Technologies used
- Angular CLI
- Bootsrap
+* Angular CLI
+* Bootsrap
+ ### Known Bugs
+ The project had a lot of errors though i was able to debug
