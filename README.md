@@ -6,6 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ### Input Output
  Click search user, user details will dispalay
  Click search repos, user repositories deplays
+ It also entails owner's biography
  ### setup/installation
  Through the github one can use it to clone
  ### Technologies used
