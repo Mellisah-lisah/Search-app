@@ -8,3 +8,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
  Click search repos, user repositories deplays
  ### setup/installation
  Through the github one can use it to clone
+ ### Technologies used
+ Angular CLI
+ Bootsrap
