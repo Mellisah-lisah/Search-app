@@ -16,4 +16,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Support and contact details
 aliceochieng25@gmail.com +254745799525
 ## LICENSE
-
+Licensed under {MIT licence} (LICENCE)
