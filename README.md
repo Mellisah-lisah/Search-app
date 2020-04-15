@@ -13,6 +13,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * Bootsrap
  ### Known Bugs
  The project had a lot of errors though i was able to debug
+ Coming up with the project was a bit challeging
 ## Support and contact details
 aliceochieng25@gmail.com +254745799525
 ## LICENSE
