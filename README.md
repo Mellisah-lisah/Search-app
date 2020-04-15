@@ -5,3 +5,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
  Ochieng Alice
 ## Input Output
  Click search user, user details will dispalay
+ Click search repos, user repositories deplays
+ 
